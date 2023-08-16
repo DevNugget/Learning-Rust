@@ -6,4 +6,4 @@ Currently reading the book: [The Rust Programming Language](https://rust-book.cs
 ## Current Project List
 - Hello World (without Cargo)
 - Hello World (using Cargo)
-- Number Guessing Game
+- Number Guessing Game (In Progress)
